@@ -1,1 +1,2 @@
-# Notes_of_Reading
+# This is a repository for recording insights from reading.
+
